@@ -332,64 +332,63 @@ function App() {
             contact.
           </h2>
 
-          <div className="max-w-4xl grid md:grid-cols-2 gap-12 items-start">
-            <div className="space-y-8 animate-slide-in">
-              <p className="text-black text-lg leading-relaxed">
-                Feel free to reach out with any questions, ideas, or
-                opportunities! I'm always open to connecting and happy to help
-                however I can. Looking forward to hearing from you!
-              </p>
-
-              <div className="space-y-4">
-                <div>
-                  <h3 className="text-[#0F172A] font-bold text-lg mb-2">
-                    Email
-                  </h3>
-                  <a
-                    href="mailto:pinyada.sanguansinithikul@gmail.com"
-                    className="text-black hover:text-[#A4BFA3] transition-colors"
-                  >
-                    pinyada.sanguansinthukul@gmail.com
-                  </a>
-                </div>
-
-                <div>
-                  <h3 className="text-[#0F172A] font-bold text-lg mb-2">
-                    Instagram
-                  </h3>
-                  <a
-                    href="https://instagram.com/pinn_s99"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-black hover:text-[#A4BFA3] transition-colors"
-                  >
-                    @pinn_s99
-                  </a>
-                </div>
-
-                <div>
-                  <h3 className="text-[#0F172A] font-bold text-lg mb-2">
-                    GitHub
-                  </h3>
-                  <a
-                    href="https://github.com/pinyadaS"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-black hover:text-[#A4BFA3] transition-colors"
-                  >
-                    github.com/PinyadaS
-                  </a>
-                </div>
-              </div>
+          <div className="md:flex justify-center animate-slide-in gap-8">
+            <div className="w-[100%] h-96 rounded-lg overflow-hidden shadow-lg mb-8 md:mb-0">
+              <img
+                src="https://images.unsplash.com/photo-1473186505569-9c61870c11f9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                alt="Golden pen decoration"
+                className="w-full h-full object-cover"
+              />
             </div>
+            <div className="max-w-4xl grid md:grid-cols-1 gap-12 items-center">
+              <div className="space-y-8 animate-slide-in">
+                <p className="text-black text-lg leading-relaxed">
+                  Feel free to reach out with any questions, ideas, or
+                  opportunities! I'm always open to connecting and happy to help
+                  however I can. Looking forward to hearing from you!
+                </p>
 
-            <div className="flex justify-center md:justify-end animate-slide-in">
-              <div className="w-48 h-64 rounded-lg overflow-hidden shadow-lg">
-                <img
-                  src="https://images.pexels.com/photos/261763/pexels-photo-261763.jpeg?auto=compress&cs=tinysrgb&w=300&h=400&fit=crop"
-                  alt="Golden pen decoration"
-                  className="w-full h-full object-cover"
-                />
+                <div className="space-y-4">
+                  <div>
+                    <h3 className="text-[#0F172A] font-bold text-lg mb-2">
+                      Email
+                    </h3>
+                    <a
+                      href="mailto:pinyada.sanguansinithikul@gmail.com"
+                      className="text-black hover:text-[#A4BFA3] transition-colors"
+                    >
+                      pinyada.sanguansinthukul@gmail.com
+                    </a>
+                  </div>
+
+                  <div>
+                    <h3 className="text-[#0F172A] font-bold text-lg mb-2">
+                      Instagram
+                    </h3>
+                    <a
+                      href="https://instagram.com/pinn_s99"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-black hover:text-[#A4BFA3] transition-colors"
+                    >
+                      @pinn_s99
+                    </a>
+                  </div>
+
+                  <div>
+                    <h3 className="text-[#0F172A] font-bold text-lg mb-2">
+                      GitHub
+                    </h3>
+                    <a
+                      href="https://github.com/pinyadaS"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-black hover:text-[#A4BFA3] transition-colors"
+                    >
+                      github.com/PinyadaS
+                    </a>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
