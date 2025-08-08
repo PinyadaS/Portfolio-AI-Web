@@ -274,7 +274,7 @@ function App() {
                 <div>
                   <h3 className="text-[#0F172A] font-bold text-lg mb-2">GitHub</h3>
                   <a href="https://github.com/pinyadaS" target="_blank" rel="noopener noreferrer" className="text-black hover:text-[#A4BFA3] transition-colors">
-                    github.com/pinyadaS
+                    github.com/PinyadaS
                   </a>
                 </div>
               </div>
