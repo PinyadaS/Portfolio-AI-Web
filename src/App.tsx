@@ -126,7 +126,7 @@ function App() {
           <div className="flex justify-center">
             <div className="relative">
               <img
-                src="https://cdn.discordapp.com/attachments/1403231535561183296/1403235273004941383/Frame_1.png?ex=6896d02f&is=68957eaf&hm=08cbb3697b5a948605e3de096f41ab69e54452b72be94fbb59c26fed995f2019&"
+                src="https://postimg.cc/f3p01YxD"
                 alt="Pinyada Sanguansinthukul"
                 className="w-full h-full object-cover"
               />
