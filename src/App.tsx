@@ -126,7 +126,7 @@ function App() {
           <div className="flex justify-center">
             <div className="relative">
               <img
-                src="https://postimg.cc/f3p01YxD"
+                src="https://i.postimg.cc/d1tmkB3k/Frame-1.png"
                 alt="Pinyada Sanguansinthukul"
                 className="w-full h-full object-cover"
               />
